@@ -1,0 +1,8 @@
+body{  background-color: #0D1117;}
+strong{color: #8B5CF6;}
+.title{ text-align: center;}
+.menu {color: #3B82F6	; text-align: center; word-spacing: 45px;}
+a{ color: #3B82F6 ; text-decoration-line: none;}
+div,span{color:#F3F4F6;text-transform: capitalize; margin-top: 50px;   font-family: 'JetBrains Mono', monospace;}
+pre{ color: #312E81;}
+
